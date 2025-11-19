@@ -20,6 +20,8 @@ I enjoy creating small projects to practice, learn, and grow every day.
 </a>
 </p>
 
+📧 **Email:** kmmohiuddin5050@gmail.com  
+
 ---
 
 ### 🛠️ Languages & Tools  
@@ -34,6 +36,13 @@ I enjoy creating small projects to practice, learn, and grow every day.
   <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
 </p>
+
+---
+
+### 🚀 Current Focus  
+- Learning backend concepts  
+- Building MERN stack practice projects  
+- Improving API development skills  
 
 ---
 
@@ -52,13 +61,5 @@ I enjoy creating small projects to practice, learn, and grow every day.
 
 ---
 
-### 🚀 Current Focus  
-- Learning backend concepts  
-- Building MERN stack practice projects  
-- Improving API development skills  
 
----
-
-### 💬 Feel free to reach out!  
-If you'd like to collaborate or just chat about development — I’m always open 😊
 
