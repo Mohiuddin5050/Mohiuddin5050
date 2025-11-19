@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![MERN Stack Banner]([https://i.imgur.com/9Q3W2jH.png](https://i.ibb.co.com/xtLbT1jC/Image-Nov-19-2025-11-04-17-AM.png)) <!-- You can add your banner image here later -->
+![MERN Stack Banner](https://i.ibb.co.com/xtLbT1jC/Image-Nov-19-2025-11-04-17-AM.png) 
 
 </div>
 
@@ -16,7 +16,6 @@
 I'm a passionate MERN Stack Developer in training, focused on building modern, responsive, and functional web applications. Currently improving my **backend development** skills and exploring full-stack project workflows. I enjoy creating small projects to practice, learn, and grow every day.
 
 - 🌱 I'm currently learning **Node.js, Express.js, and MongoDB**
-- 💼 Looking for **internship opportunities** in web development
 - 🎯 Goal: Become a **full-stack developer**
 - 📫 How to reach me: **kmmohiuddin5050@gmail.com**
 
