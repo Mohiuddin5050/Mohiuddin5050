@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/4nKvCQLH/Image-Nov-19-2025-11-04-17-AM.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohiuddin</h1>
 <h3 align="center">MERN Stack Developer (Learning)</h3>
 
