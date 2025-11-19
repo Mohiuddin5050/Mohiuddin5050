@@ -3,11 +3,10 @@
 
 <br />
 
-<div align="center">
-  
-![MERN Stack Banner](https://i.ibb.co.com/xtLbT1jC/Image-Nov-19-2025-11-04-17-AM.png) 
+<p align="center">
+  <img src="https://i.ibb.co/1Ynj3bS9/Image-Nov-19-2025-11-04-17-AM.png" alt="Banner" width="100%" />
+</p>
 
-</div>
 
 <br />
 
