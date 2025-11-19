@@ -1,19 +1,64 @@
 <h1 align="center">Hi 👋, I'm Mohiuddin</h1>
-<h3 align="center">Hi! I'm Mohiuddin — a web developer in training. I’m learning JavaScript, React, and backend development. I build small projects to improve my skills and explore new ideas. Excited to grow as a full-stack developer.</h3>
+<h3 align="center">MERN Stack Developer (Learning)</h3>
 
+---
 
+### 👨‍💻 About Me  
+I’m a passionate MERN Stack Developer in training, focused on building modern, responsive, and functional web applications.  
+Currently improving my **backend development** skills and exploring full-stack project workflows.  
+I enjoy creating small projects to practice, learn, and grow every day.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔗 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/in/md-mohiuddin-b97973181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-mohiuddin-b97973181/" height="30" width="40" /></a>
-<a href="https://fb.com/md.mohiuddin.491820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.mohiuddin.491820" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-mohiuddin-b97973181" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://fb.com/md.mohiuddin.491820" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohiuddin5050&show_icons=true&locale=en&layout=compact" alt="mohiuddin5050" /></p>
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohiuddin5050&show_icons=true&locale=en" alt="mohiuddin5050" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohiuddin5050&" alt="mohiuddin5050" /></p>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohiuddin5050&show_icons=true&theme=default" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohiuddin5050&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohiuddin5050" alt="Streak Stats" />
+</p>
+
+---
+
+### 🚀 Current Focus  
+- Learning backend concepts  
+- Building MERN stack practice projects  
+- Improving API development skills  
+
+---
+
+### 💬 Feel free to reach out!  
+If you'd like to collaborate or just chat about development — I’m always open 😊
+
