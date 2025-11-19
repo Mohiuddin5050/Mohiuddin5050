@@ -1,69 +1,81 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/4nKvCQLH/Image-Nov-19-2025-11-04-17-AM.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mohiuddin</h1>
-<h3 align="center">MERN Stack Developer (Learning)</h3>
+<h3 align="center">A passionate MERN Stack Developer (Learning)</h3>
 
----
+<br />
 
-### 👨‍💻 About Me  
-I’m a passionate MERN Stack Developer in training, focused on building modern, responsive, and functional web applications.  
-Currently improving my **backend development** skills and exploring full-stack project workflows.  
-I enjoy creating small projects to practice, learn, and grow every day.
+<div align="center">
+  
+![MERN Stack Banner]([https://i.imgur.com/9Q3W2jH.png](https://i.ibb.co.com/xtLbT1jC/Image-Nov-19-2025-11-04-17-AM.png)) <!-- You can add your banner image here later -->
 
----
+</div>
 
-### 🔗 Connect with Me  
+<br />
+
+## 👨‍💻 About Me
+
+I'm a passionate MERN Stack Developer in training, focused on building modern, responsive, and functional web applications. Currently improving my **backend development** skills and exploring full-stack project workflows. I enjoy creating small projects to practice, learn, and grow every day.
+
+- 🌱 I'm currently learning **Node.js, Express.js, and MongoDB**
+- 💼 Looking for **internship opportunities** in web development
+- 🎯 Goal: Become a **full-stack developer**
+- 📫 How to reach me: **kmmohiuddin5050@gmail.com**
+
+## 🔗 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/md-mohiuddin-b97973181" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/md.mohiuddin.491820" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/md-mohiuddin-b97973181" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/md.mohiuddin.491820" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:kmmohiuddin5050@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-📧 **Email:** kmmohiuddin5050@gmail.com  
+## 🛠️ Tech Stack
 
----
-
-### 🛠️ Languages & Tools  
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" />
-  <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies" />
 </p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Technologies" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode" alt="Tools" />
+</p>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Mohiuddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohiuddin5050&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin5050&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohiuddin5050&theme=default&hide_border=true)
+
+</div>
+
+## 🚀 Current Focus
+
+- 🔭 Working on **MERN stack projects**
+- 🌱 Learning **backend concepts & API development**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **React, JavaScript, Frontend Development**
 
 ---
 
-### 🚀 Current Focus  
-- Learning backend concepts  
-- Building MERN stack practice projects  
-- Improving API development skills  
+<div align="center">
 
----
+### ⚡ Fun Fact: I turn coffee into code!
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohiuddin5050&show_icons=true&theme=default" alt="Stats" />
-</p>
+⭐️ From [Mohiuddin](https://github.com/mohiuddin5050)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohiuddin5050&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohiuddin5050" alt="Streak Stats" />
-</p>
-
----
-
-
-
+</div>
