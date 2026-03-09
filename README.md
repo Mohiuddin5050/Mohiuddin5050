@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohiuddin</h1>
-<h3 align="center">A passionate MERN Stack Developer (Learning)</h3>
+<p align="center">
+  <img src="https://i.ibb.co/Q3htpXNJ/Mohiuddin.png" alt="Banner" width="100%" />
+</p>
 
 <br />
 
-<p align="center">
-  <img src="https://i.ibb.co/1Ynj3bS9/Image-Nov-19-2025-11-04-17-AM.png" alt="Banner" width="100%" />
-</p>
+<h1 align="center">Hi 👋, I'm Mohiuddin</h1>
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 
 <br />
